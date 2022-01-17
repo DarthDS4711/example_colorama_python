@@ -1,0 +1,11 @@
+!AMD
+#1;Coca-Cola;25.3;10
+#2;Sabritas;25.3;10
+#3;Pepsi;25.3;10
+#4;Huevo;25.3;10
+#5;Queso;25.3;10
+#6;Chocolate;15;60
+#7;Tortillas;25.3;10
+%
+@2;Juan
+&
